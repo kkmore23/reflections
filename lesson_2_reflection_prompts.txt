@@ -4,8 +4,7 @@ It creates meta data.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It adds value if you are in dual thought to add a particular feature in the repository
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change??
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
